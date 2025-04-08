@@ -66,5 +66,5 @@ The goal of this project is to analyze a dataset containing insurance-related de
 
 ---
 
-##  Project Structure
+##
 
